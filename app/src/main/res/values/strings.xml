@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobg6</string>
+    <string name="log_in_button">Log in</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="developer_name">Youssef Rajoul</string>
+    <string name="developer_id">59939</string>
+    <string name="group_id">E11</string>
+</resources>
